@@ -73,7 +73,7 @@ body {
 }
 
 .rated-container {
-    width: 490px;
+    max-width: 490px;
     height: 180px;
     display: flex;
     flex-direction: column;
@@ -87,6 +87,7 @@ body {
     align-items: center;
     border-radius: 10px;
     background-color: var(--light-grayish);
+    text-align: center;
 }
 
 .rated-image img {
