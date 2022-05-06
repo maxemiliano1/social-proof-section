@@ -2,7 +2,7 @@
 <h2>Text Markup Languages ​​Used Html,Css</h2><br>
 <h3>Accessing Project</h3><br>
 <p>Just click on the link below, hope you like it.</p>
-<a href="https://maxemiliano1.github.io/social-proof-section/" target="_blank">Press here</a>
+<a href="https://maxemiliano1.github.io/social-proof-section/" target="_blank">Press Here</a>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Max-HTML" height="30" width="40"
